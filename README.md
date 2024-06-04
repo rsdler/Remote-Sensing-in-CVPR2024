@@ -6,8 +6,7 @@
 
 #### Papers related to remote sensing in CVPR2024
 
- <img src="![image](https://github.com/rsdler/Remote-Sensing-in-CVPR2024/assets/169664279/35f74c38-740d-4f41-9bae-f30232a5a2ff)
-" style="width:30%;">
+ <img src="https://github.com/rsdler/Remote-Sensing-in-CVPR2024/assets/169664279/35f74c38-740d-4f41-9bae-f30232a5a2ff" style="width:30%;">
 
 #### 1. Learning without Exact Guidance: Updating Large-scale High-resolution Land Cover Maps from Low-resolution Historical Labels  [Highlight]
 
