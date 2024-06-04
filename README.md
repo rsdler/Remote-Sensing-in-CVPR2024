@@ -157,7 +157,16 @@
 * Code: https://github.com/mbzuai-oryx/geochat
 * Data: https://huggingface.co/datasets/MBZUAI/GeoChat_Instruct
 
+#### 21. WildlifeMapper: Aerial Image Analysis for Multi-Species Detection and Identification
 
+* Code: https://github.com/UCSB-VRL/WildlifeMapper
+
+
+#### 22. S2MAE: A Spatial-Spectral Pretraining Foundation Model for Spectral Remote Sensing Data
+
+* Video: https://www.youtube.com/watch?v=VPyomVPVqwU
+
+#### 23. Weakly Misalignment-free Adaptive Feature Alignment for UAVs-based Multimodal Object Detection
 
 # CVPR 2024 Workshop
 
