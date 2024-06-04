@@ -6,7 +6,7 @@
 
 #### Papers related to remote sensing in CVPR2024
 
- >>[CVPR 2023 ](https://github.com/rsdler/Remote-Sensing-in-CVPR2023)
+ >[CVPR 2023 ](https://github.com/rsdler/Remote-Sensing-in-CVPR2023)
 
  <img src="https://github.com/rsdler/Remote-Sensing-in-CVPR2024/assets/169664279/35f74c38-740d-4f41-9bae-f30232a5a2ff" style="width:30%;">
 
