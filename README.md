@@ -1,8 +1,12 @@
-[toc]
+
+
+
 
 # Remote Sensing in CVPR2024
 
 #### Papers related to remote sensing in CVPR2024
+
+[TOC]
 
 
 #### 1. Learning without Exact Guidance: Updating Large-scale High-resolution Land Cover Maps from Low-resolution Historical Labels  [Highlight]
