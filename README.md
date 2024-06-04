@@ -7,7 +7,7 @@
 #### Papers related to remote sensing in CVPR2024
 
 - [Remote Sensing in CVPR2024](#remote-sensing-in-cvpr2024)
-      - [Papers related to remote sensing in CVPR2024](#papers-related-to-remote-sensing-in-cvpr2024)
+- 
       - [1. Learning without Exact Guidance: Updating Large-scale High-resolution Land Cover Maps from Low-resolution Historical Labels  \[Highlight\]](#1-learning-without-exact-guidance-updating-large-scale-high-resolution-land-cover-maps-from-low-resolution-historical-labels--highlight)
       - [2. SG-BEV: Satellite-Guided BEV Fusion for Cross-View Semantic Segmentation \[Highlight\]](#2-sg-bev-satellite-guided-bev-fusion-for-cross-view-semantic-segmentation-highlight)
       - [3. GeoChat : Grounded Large Vision-Language Model for Remote Sensing](#3-geochat--grounded-large-vision-language-model-for-remote-sensing)
@@ -29,6 +29,7 @@
       - [19. Bridging Remote Sensors with Multisensor Geospatial Foundation Models](#19-bridging-remote-sensors-with-multisensor-geospatial-foundation-models)
       - [20. CityDreamer: Compositional Generative Model of Unbounded 3D Cities](#20-citydreamer-compositional-generative-model-of-unbounded-3d-cities)
 - [CVPR 2024 Workshop](#cvpr-2024-workshop)
+- 
       - [1. Segment Anything Model for Road Network Graph Extraction](#1-segment-anything-model-for-road-network-graph-extraction)
       - [2. Generalized Few-Shot Meets Remote Sensing: Discovering Novel Classes in Land Cover Mapping via Hybrid Semantic Segmentation Framework](#2-generalized-few-shot-meets-remote-sensing-discovering-novel-classes-in-land-cover-mapping-via-hybrid-semantic-segmentation-framework)
       - [3. Class Similarity Transition: Decoupling Class Similarities and Imbalance from Generalized Few-shot Segmentation](#3-class-similarity-transition-decoupling-class-similarities-and-imbalance-from-generalized-few-shot-segmentation)
