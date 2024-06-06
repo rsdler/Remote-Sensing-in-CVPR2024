@@ -139,38 +139,29 @@
 * Data: https://romainloiseau.fr/learnable-earth-parser/
 
 
-
-#### 18. Learnable Earth Parser: Discovering 3D Prototypes in Aerial Scans
-
-* Paper : http://arxiv.org/abs/2304.09704
-* Code: https://romainloiseau.fr/learnable-earth-parser/
-* Data: https://romainloiseau.fr/learnable-earth-parser/
-
-
-
-#### 19. Bridging Remote Sensors with Multisensor Geospatial Foundation Models
+#### 18. Bridging Remote Sensors with Multisensor Geospatial Foundation Models
 
 * Paper : http://arxiv.org/abs/2404.01260
 * Code: https://github.com/boranhan/Geospatial_Foundation_Models
 
 
 
-#### 20. CityDreamer: Compositional Generative Model of Unbounded 3D Cities
+#### 19. CityDreamer: Compositional Generative Model of Unbounded 3D Cities
 
 * Paper : https://arxiv.org/abs/2311.15826
 * Code: https://github.com/mbzuai-oryx/geochat
 * Data: https://huggingface.co/datasets/MBZUAI/GeoChat_Instruct
 
-#### 21. WildlifeMapper: Aerial Image Analysis for Multi-Species Detection and Identification
+#### 20. WildlifeMapper: Aerial Image Analysis for Multi-Species Detection and Identification
 
 * Code: https://github.com/UCSB-VRL/WildlifeMapper
 
 
-#### 22. S2MAE: A Spatial-Spectral Pretraining Foundation Model for Spectral Remote Sensing Data
+#### 21. S2MAE: A Spatial-Spectral Pretraining Foundation Model for Spectral Remote Sensing Data
 
 * Video: https://www.youtube.com/watch?v=VPyomVPVqwU
 
-#### 23. Weakly Misalignment-free Adaptive Feature Alignment for UAVs-based Multimodal Object Detection
+#### 22. Weakly Misalignment-free Adaptive Feature Alignment for UAVs-based Multimodal Object Detection
 
 # CVPR 2024 Workshop
 
