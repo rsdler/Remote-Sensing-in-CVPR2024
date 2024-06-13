@@ -159,7 +159,7 @@
 
 #### 21. S2MAE: A Spatial-Spectral Pretraining Foundation Model for Spectral Remote Sensing Data
 
-* Video: https://openaccess.thecvf.com/content/CVPR2024/html/Li_S2MAE_A_Spatial-Spectral_Pretraining_Foundation_Model_for_Spectral_Remote_Sensing_CVPR_2024_paper.html
+* Paper: https://openaccess.thecvf.com/content/CVPR2024/html/Li_S2MAE_A_Spatial-Spectral_Pretraining_Foundation_Model_for_Spectral_Remote_Sensing_CVPR_2024_paper.html
 * Video: https://www.youtube.com/watch?v=VPyomVPVqwU
 
 #### 22. Weakly Misalignment-free Adaptive Feature Alignment for UAVs-based Multimodal Object Detection
