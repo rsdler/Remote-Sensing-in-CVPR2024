@@ -154,14 +154,18 @@
 
 #### 20. WildlifeMapper: Aerial Image Analysis for Multi-Species Detection and Identification
 
+* Paper : https://openaccess.thecvf.com/content/CVPR2024/html/Kumar_WildlifeMapper_Aerial_Image_Analysis_for_Multi-Species_Detection_and_Identification_CVPR_2024_paper.html
 * Code: https://github.com/UCSB-VRL/WildlifeMapper
-
 
 #### 21. S2MAE: A Spatial-Spectral Pretraining Foundation Model for Spectral Remote Sensing Data
 
 * Video: https://www.youtube.com/watch?v=VPyomVPVqwU
+* Video: https://www.youtube.com/watch?v=VPyomVPVqwU
 
 #### 22. Weakly Misalignment-free Adaptive Feature Alignment for UAVs-based Multimodal Object Detection
+
+* Paper: https://openaccess.thecvf.com/content/CVPR2024/html/Li_S2MAE_A_Spatial-Spectral_Pretraining_Foundation_Model_for_Spectral_Remote_Sensing_CVPR_2024_paper.html
+
 
 # CVPR 2024 Workshop
 
