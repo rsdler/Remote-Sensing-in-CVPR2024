@@ -167,8 +167,90 @@
 * Paper: https://openaccess.thecvf.com/content/CVPR2024/html/Chen_Weakly_Misalignment-free_Adaptive_Feature_Alignment_for_UAVs-based_Multimodal_Object_Detection_CVPR_2024_paper.html
 
 
-# CVPR 2024 Workshop
 
+# CVPR 2024 Workshop: EarthVision: Large Scale Computer Vision for Remote Sensing Imagery
+
+#### 1. Efficient Local Correlation Volume for Unsupervised Optical Flow Estimation on Small Moving Objects in Large Satellite Images
+
+* Page : [CVPR24 workshop Paper](https://openaccess.thecvf.com/content/CVPR2024W/EarthVision/html/Khairi_Efficient_Local_Correlation_Volume_for_Unsupervised_Optical_Flow_Estimation_on_CVPRW_2024_paper.html)
+
+#### 2. GeoSynth: Contextually-Aware High-Resolution Satellite Image Synthesis
+
+* Page : [CVPR24 workshop Paper](https://openaccess.thecvf.com/content/CVPR2024W/EarthVision/html/Sastry_GeoSynth_Contextually-Aware_High-Resolution_Satellite_Image_Synthesis_CVPRW_2024_paper.html)
+
+#### 3. Contrastive Pretraining for Visual Concept Explanations of Socioeconomic Outcomes
+
+* Page : [CVPR24 workshop Paper](https://openaccess.thecvf.com/content/CVPR2024W/EarthVision/html/Obadic_Contrastive_Pretraining_for_Visual_Concept_Explanations_of_Socioeconomic_Outcomes_CVPRW_2024_paper.html)
+
+#### 4. Detecting Out-Of-Distribution Earth Observation Images with Diffusion Models
+
+* Page : [CVPR24 workshop Paper](https://openaccess.thecvf.com/content/CVPR2024W/EarthVision/html/Le_Bellier_Detecting_Out-Of-Distribution_Earth_Observation_Images_with_Diffusion_Models_CVPRW_2024_paper.html)
+
+#### 5. Let Me Show You How It's Done - Cross-modal Knowledge Distillation as Pretext Task for Semantic Segmentation
+
+* Page : [CVPR24 workshop Paper](https://openaccess.thecvf.com/content/CVPR2024W/EarthVision/html/Nair_Let_Me_Show_You_How_Its_Done_-_Cross-modal_Knowledge_CVPRW_2024_paper.html)
+
+#### 6. Charting New Territories: Exploring the Geographic and Geospatial Capabilities of Multimodal LLMs
+
+* Page : [CVPR24 workshop Paper](https://openaccess.thecvf.com/CVPR2024_workshops/EarthVision)
+
+#### 7. SyntStereo2Real: Edge-Aware GAN for Remote Sensing Image-to-Image Translation while Maintaining Stereo Constraint
+
+* Page : [CVPR24 workshop Paper](https://openaccess.thecvf.com/content/CVPR2024W/EarthVision/html/Venkatesan_SyntStereo2Real_Edge-Aware_GAN_for_Remote_Sensing_Image-to-Image_Translation_while_Maintaining_CVPRW_2024_paper.html)
+
+#### 8. Sat2Cap: Mapping Fine-Grained Textual Descriptions from Satellite Images
+
+* Page : [CVPR24 workshop Paper](https://openaccess.thecvf.com/content/CVPR2024W/EarthVision/html/Dhakal_Sat2Cap_Mapping_Fine-Grained_Textual_Descriptions_from_Satellite_Images_CVPRW_2024_paper.html)
+
+#### 9. Unsupervised Domain Adaptation Architecture Search with Self-Training for Land Cover Mapping
+
+* Page : [CVPR24 workshop Paper](https://openaccess.thecvf.com/content/CVPR2024W/EarthVision/html/Broni-Bediako_Unsupervised_Domain_Adaptation_Architecture_Search_with_Self-Training_for_Land_Cover_CVPRW_2024_paper.html)
+
+#### 10. Implicit Assimilation of Sparse In Situ Data for Dense & Global Storm Surge Forecasting
+
+* Page : [CVPR24 workshop Paper](https://openaccess.thecvf.com/content/CVPR2024W/EarthVision/html/Ebel_Implicit_Assimilation_of_Sparse_In_Situ_Data_for_Dense__CVPRW_2024_paper.html)
+
+#### 11. SUNDIAL: 3D Satellite Understanding through Direct Ambient and Complex Lighting Decomposition
+
+* Page : [CVPR24 workshop Paper](https://openaccess.thecvf.com/content/CVPR2024W/EarthVision/html/Behari_SUNDIAL_3D_Satellite_Understanding_through_Direct_Ambient_and_Complex_Lighting_CVPRW_2024_paper.html)
+
+
+#### 12. Exploring Robust Features for Few-Shot Object Detection in Satellite Imagery
+
+* Page : [CVPR24 workshop Paper](https://openaccess.thecvf.com/content/CVPR2024W/EarthVision/html/Bou_Exploring_Robust_Features_for_Few-Shot_Object_Detection_in_Satellite_Imagery_CVPRW_2024_paper.html)
+
+  
+#### 13. Cross-sensor super-resolution of irregularly sampled Sentinel-2 time series
+
+* Page : [CVPR24 workshop Paper](https://openaccess.thecvf.com/content/CVPR2024W/EarthVision/html/Okabayashi_Cross-sensor_super-resolution_of_irregularly_sampled_Sentinel-2_time_series_CVPRW_2024_paper.html)
+
+  
+#### 14. (Street) Lights Will Guide You: Georeferencing Nighttime Astronaut Photography of Earth
+
+* Page : [CVPR24 workshop Paper](https://openaccess.thecvf.com/content/CVPR2024W/EarthVision/html/Stoken_Street_Lights_Will_Guide_You_Georeferencing_Nighttime_Astronaut_Photography_of_CVPRW_2024_paper.html)
+
+
+#### 15. Radar Fields: An Extension of Radiance Fields to SAR
+
+* Page : [CVPR24 workshop Paper](https://openaccess.thecvf.com/content/CVPR2024W/EarthVision/html/Ehret_Radar_Fields_An_Extension_of_Radiance_Fields_to_SAR_CVPRW_2024_paper.html)
+
+
+#### 16. Deep Generative Data Assimilation in Multimodal Setting
+
+* Page : [CVPR24 workshop Paper](https://openaccess.thecvf.com/content/CVPR2024W/EarthVision/html/Qu_Deep_Generative_Data_Assimilation_in_Multimodal_Setting_CVPRW_2024_paper.html)
+
+
+#### 17. GeoLLM-Engine: A Realistic Environment for Building Geospatial Copilots
+
+* Page : [CVPR24 workshop Paper](https://openaccess.thecvf.com/content/CVPR2024W/EarthVision/html/Singh_GeoLLM-Engine_A_Realistic_Environment_for_Building_Geospatial_Copilots_CVPRW_2024_paper.html)
+  
+
+#### 18. UrbanSARFloods: Sentinel-1 SLC-Based Benchmark Dataset for Urban and Open-Area Flood Mapping
+
+* Page : [CVPR24 workshop Paper](https://openaccess.thecvf.com/content/CVPR2024W/EarthVision/html/Zhao_UrbanSARFloods_Sentinel-1_SLC-Based_Benchmark_Dataset_for_Urban_and_Open-Area_Flood_CVPRW_2024_paper.html)
+
+
+# CVPR 2024 Papers in other workshops
 
 
 #### 1. Segment Anything Model for Road Network Graph Extraction
