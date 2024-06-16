@@ -280,6 +280,6 @@
 
 
 #### 4. Learnable Prompt for Few-Shot Semantic Segmentation in Remote Sensing Domain
-
+* Workshop: CVPR 2024 3rd Workshop on Learning with Limited Labelled Data for Image and Video Understanding
 * Paper : https://arxiv.org/abs/2404.10307
 * Page : https://codalab.lisn.upsaclay.fr/competitions/17568
