@@ -154,31 +154,31 @@
 
 #### 20. WildlifeMapper: Aerial Image Analysis for Multi-Species Detection and Identification
 
-* Paper : https://openaccess.thecvf.com/content/CVPR2024/html/Kumar_WildlifeMapper_Aerial_Image_Analysis_for_Multi-Species_Detection_and_Identification_CVPR_2024_paper.html
+* Paper : [CVPR 2024 Paper](https://openaccess.thecvf.com/content/CVPR2024/html/Kumar_WildlifeMapper_Aerial_Image_Analysis_for_Multi-Species_Detection_and_Identification_CVPR_2024_paper.html) 
 * Code: https://github.com/UCSB-VRL/WildlifeMapper
 
 #### 21. S2MAE: A Spatial-Spectral Pretraining Foundation Model for Spectral Remote Sensing Data
 
-* Paper: https://openaccess.thecvf.com/content/CVPR2024/html/Li_S2MAE_A_Spatial-Spectral_Pretraining_Foundation_Model_for_Spectral_Remote_Sensing_CVPR_2024_paper.html
+* Paper: [CVPR 2024 Paper](https://openaccess.thecvf.com/content/CVPR2024/html/Li_S2MAE_A_Spatial-Spectral_Pretraining_Foundation_Model_for_Spectral_Remote_Sensing_CVPR_2024_paper.html) 
 * Video: https://www.youtube.com/watch?v=VPyomVPVqwU
 
 #### 22. Weakly Misalignment-free Adaptive Feature Alignment for UAVs-based Multimodal Object Detection
 
-* Paper: https://openaccess.thecvf.com/content/CVPR2024/html/Chen_Weakly_Misalignment-free_Adaptive_Feature_Alignment_for_UAVs-based_Multimodal_Object_Detection_CVPR_2024_paper.html
+* Paper: [CVPR 2024 Paper](https://openaccess.thecvf.com/content/CVPR2024/html/Chen_Weakly_Misalignment-free_Adaptive_Feature_Alignment_for_UAVs-based_Multimodal_Object_Detection_CVPR_2024_paper.html) 
 
 #### 23. Parameter Efficient Self-Supervised Geospatial Domain Adaptation
 
-* Paper: https://openaccess.thecvf.com/content/CVPR2024/html/Scheibenreif_Parameter_Efficient_Self-Supervised_Geospatial_Domain_Adaptation_CVPR_2024_paper.html
+* Paper: [CVPR 2024 Paper ](https://openaccess.thecvf.com/content/CVPR2024/html/Scheibenreif_Parameter_Efficient_Self-Supervised_Geospatial_Domain_Adaptation_CVPR_2024_paper.html)
 * Code: https://github.com/HSG-AIML/GDA
 
 #### 24. Relational Matching for Weakly Semi-Supervised Oriented Object Detection
 
-* Paper: https://openaccess.thecvf.com/content/CVPR2024/html/Wu_Relational_Matching_for_Weakly_Semi-Supervised_Oriented_Object_Detection_CVPR_2024_paper.html
+* Paper: [CVPR 2024 Paper](https://openaccess.thecvf.com/content/CVPR2024/html/Wu_Relational_Matching_for_Weakly_Semi-Supervised_Oriented_Object_Detection_CVPR_2024_paper.html) 
 * Code: https://github.com/HSG-AIML/GDA
   
 #### 25. Multi-modal Learning for Geospatial Vegetation Forecasting
 
-* Paper: https://openaccess.thecvf.com/content/CVPR2024/html/Benson_Multi-modal_Learning_for_Geospatial_Vegetation_Forecasting_CVPR_2024_paper.html
+* Paper: [CVPR 2024 Paper ](https://openaccess.thecvf.com/content/CVPR2024/html/Benson_Multi-modal_Learning_for_Geospatial_Vegetation_Forecasting_CVPR_2024_paper.html)
 * Code: https://github.com/vitusbenson/greenearthnet
 
 
