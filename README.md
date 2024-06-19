@@ -181,6 +181,11 @@
 * Paper: [CVPR 2024 Paper ](https://openaccess.thecvf.com/content/CVPR2024/html/Benson_Multi-modal_Learning_for_Geospatial_Vegetation_Forecasting_CVPR_2024_paper.html)
 * Code: https://github.com/vitusbenson/greenearthnet
 
+#### 26. DiffCast: A Unified Framework via Residual Diffusion for Precipitation Nowcasting
+
+* Paper: [CVPR 2024 Paper ](https://openaccess.thecvf.com/content/CVPR2024/html/Yu_DiffCast_A_Unified_Framework_via_Residual_Diffusion_for_Precipitation_Nowcasting_CVPR_2024_paper.html)
+* Code: https://github.com/DeminYu98/DiffCast
+
 
 # CVPR 2024 Workshop: EarthVision: Large Scale Computer Vision for Remote Sensing Imagery
 
