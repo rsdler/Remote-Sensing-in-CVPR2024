@@ -166,6 +166,20 @@
 
 * Paper: https://openaccess.thecvf.com/content/CVPR2024/html/Chen_Weakly_Misalignment-free_Adaptive_Feature_Alignment_for_UAVs-based_Multimodal_Object_Detection_CVPR_2024_paper.html
 
+#### 23. Parameter Efficient Self-Supervised Geospatial Domain Adaptation
+
+* Paper: https://openaccess.thecvf.com/content/CVPR2024/html/Scheibenreif_Parameter_Efficient_Self-Supervised_Geospatial_Domain_Adaptation_CVPR_2024_paper.html
+* Code: https://github.com/HSG-AIML/GDA
+
+#### 24. Relational Matching for Weakly Semi-Supervised Oriented Object Detection
+
+* Paper: https://openaccess.thecvf.com/content/CVPR2024/html/Wu_Relational_Matching_for_Weakly_Semi-Supervised_Oriented_Object_Detection_CVPR_2024_paper.html
+* Code: https://github.com/HSG-AIML/GDA
+  
+#### 25. Multi-modal Learning for Geospatial Vegetation Forecasting
+
+* Paper: https://openaccess.thecvf.com/content/CVPR2024/html/Benson_Multi-modal_Learning_for_Geospatial_Vegetation_Forecasting_CVPR_2024_paper.html
+* Code: https://github.com/vitusbenson/greenearthnet
 
 
 # CVPR 2024 Workshop: EarthVision: Large Scale Computer Vision for Remote Sensing Imagery
