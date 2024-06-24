@@ -185,6 +185,10 @@
 
 * Paper: [CVPR 2024 Paper ](https://openaccess.thecvf.com/content/CVPR2024/html/Yu_DiffCast_A_Unified_Framework_via_Residual_Diffusion_for_Precipitation_Nowcasting_CVPR_2024_paper.html)
 * Code: https://github.com/DeminYu98/DiffCast
+  
+#### 26. Unmixing Diffusion for Self-Supervised Hyperspectral Image Denoising
+* Paper: [CVPR 2024 Paper](https://openaccess.thecvf.com/content/CVPR2024/html/Zeng_Unmixing_Diffusion_for_Self-Supervised_Hyperspectral_Image_Denoising_CVPR_2024_paper.html)
+* 
 
 
 # CVPR 2024 Workshop: EarthVision: Large Scale Computer Vision for Remote Sensing Imagery
