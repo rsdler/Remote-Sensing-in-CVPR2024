@@ -26,9 +26,13 @@
 * Paper : https://arxiv.org/abs/2404.02638v1
 * Code: https://github.com/yejy53/SG-BEV
 
+#### 3. S2MAE: A Spatial-Spectral Pretraining Foundation Model for Spectral Remote Sensing Data  [Oral]
 
+* Paper: [CVPR 2024 Paper](https://openaccess.thecvf.com/content/CVPR2024/html/Li_S2MAE_A_Spatial-Spectral_Pretraining_Foundation_Model_for_Spectral_Remote_Sensing_CVPR_2024_paper.html) 
+* Video: https://www.youtube.com/watch?v=VPyomVPVqwU
+  
 
-#### 3. GeoChat : Grounded Large Vision-Language Model for Remote Sensing
+#### 4. GeoChat : Grounded Large Vision-Language Model for Remote Sensing
 
 * Paper : https://arxiv.org/abs/2311.15826
 
@@ -38,19 +42,19 @@
 
   
 
-#### 4. SkySense: A Multi-Modal Remote Sensing Foundation Model Towards Universal Interpretation for Earth Observation Imagery
+#### 5. SkySense: A Multi-Modal Remote Sensing Foundation Model Towards Universal Interpretation for Earth Observation Imagery
 
 * Paper : https://arxiv.org/abs/2312.10115
 
   
 
-#### 5. Sat2Scene: 3D Urban Scene Generation from Satellite Images with Diffusion
+#### 6. Sat2Scene: 3D Urban Scene Generation from Satellite Images with Diffusion
 
 * Paper : https://arxiv.org/abs/2401.10786
 
   
 
-#### 6. Rotated Multi-Scale Interaction Network for Referring Remote Sensing Image Segmentation
+#### 7. Rotated Multi-Scale Interaction Network for Referring Remote Sensing Image Segmentation
 
 * Paper : https://arxiv.org/abs/2312.12470
 * Code: https://github.com/Lsan2401/RMSIN
@@ -58,14 +62,14 @@
 
 
 
-#### 7. Poly Kernel Inception Network for Remote Sensing Detection
+#### 8. Poly Kernel Inception Network for Remote Sensing Detection
 
 * Paper : http://arxiv.org/abs/2403.06258
 * Code: https://github.com/NUST-Machine-Intelligence-Laboratory/PKINet
 
 
 
-#### 8. Rethinking Transformers Pre-training for Multi-Spectral Satellite Imagery
+#### 9. Rethinking Transformers Pre-training for Multi-Spectral Satellite Imagery
 
 * Paper : http://arxiv.org/abs/2403.05419
 
@@ -73,34 +77,34 @@
 
   
 
-#### 9. Building Bridges across Spatial and Temporal Resolutions: Reference-Based Super-Resolution via Change Priors and Conditional Diffusion Model
+#### 10. Building Bridges across Spatial and Temporal Resolutions: Reference-Based Super-Resolution via Change Priors and Conditional Diffusion Model
 
 * Paper : https://arxiv.org/abs/2403.17460v1
 * Code: https://github.com/dongrunmin/RefDiff
 
 
 
-#### 10. Aerial Lifting: Neural Urban Semantic and Building Instance Lifting from Aerial Imagery
+#### 11. Aerial Lifting: Neural Urban Semantic and Building Instance Lifting from Aerial Imagery
 
 * Paper : https://arxiv.org/abs/2403.11812v1
 * Code: https://github.com/zyqz97/Aerial_lifting
 
 
 
-#### 11. SatSynth: Augmenting Image-Mask Pairs through Diffusion Models for Aerial Semantic Segmentation
+#### 12. SatSynth: Augmenting Image-Mask Pairs through Diffusion Models for Aerial Semantic Segmentation
 
 * Paper : https://arxiv.org/abs/2403.16605v1
 
 
 
-#### 12. Unleashing Unlabeled Data: A Paradigm for Cross-View Geo-Localization
+#### 13. Unleashing Unlabeled Data: A Paradigm for Cross-View Geo-Localization
 
 * Paper : http://arxiv.org/abs/2403.14198
 * Code: https://github.com/liguopeng0923/UCVGL
 
 
 
-#### 13. PointOBB: Learning Oriented Object Detection via Single Point Supervision
+#### 14. PointOBB: Learning Oriented Object Detection via Single Point Supervision
 
 * Paper : https://arxiv.org/abs/2311.14757
 
@@ -108,7 +112,7 @@
 
   
 
-#### 14. Point2RBox: Combine Knowledge from Synthetic Visual Patterns for End-to-end Oriented Object Detection with Single Point Supervision
+#### 15. Point2RBox: Combine Knowledge from Synthetic Visual Patterns for End-to-end Oriented Object Detection with Single Point Supervision
 
 * Paper : http://arxiv.org/abs/2311.14758
 
@@ -116,7 +120,7 @@
 
   
 
-#### 15. Content-Adaptive Non-Local Convolution for Remote Sensing Pansharpening
+#### 16. Content-Adaptive Non-Local Convolution for Remote Sensing Pansharpening
 
 * Paper : http://arxiv.org/abs/2404.07543
 
@@ -124,7 +128,7 @@
 
   
 
-#### 16. 3D Building Reconstruction from Monocular Remote Sensing Images with Multi-level Supervisions
+#### 17. 3D Building Reconstruction from Monocular Remote Sensing Images with Multi-level Supervisions
 
 * Paper : http://arxiv.org/abs/2404.04823
 
@@ -132,35 +136,31 @@
 
   
 
-#### 17. Learnable Earth Parser: Discovering 3D Prototypes in Aerial Scans
+#### 18. Learnable Earth Parser: Discovering 3D Prototypes in Aerial Scans
 
 * Paper : http://arxiv.org/abs/2304.09704
 * Code: https://romainloiseau.fr/learnable-earth-parser/
 * Data: https://romainloiseau.fr/learnable-earth-parser/
 
 
-#### 18. Bridging Remote Sensors with Multisensor Geospatial Foundation Models
+#### 19. Bridging Remote Sensors with Multisensor Geospatial Foundation Models
 
 * Paper : http://arxiv.org/abs/2404.01260
 * Code: https://github.com/boranhan/Geospatial_Foundation_Models
 
 
 
-#### 19. CityDreamer: Compositional Generative Model of Unbounded 3D Cities
+#### 20. CityDreamer: Compositional Generative Model of Unbounded 3D Cities
 
 * Paper : https://arxiv.org/abs/2311.15826
 * Code: https://github.com/mbzuai-oryx/geochat
 * Data: https://huggingface.co/datasets/MBZUAI/GeoChat_Instruct
 
-#### 20. WildlifeMapper: Aerial Image Analysis for Multi-Species Detection and Identification
+#### 21. WildlifeMapper: Aerial Image Analysis for Multi-Species Detection and Identification
 
 * Paper : [CVPR 2024 Paper](https://openaccess.thecvf.com/content/CVPR2024/html/Kumar_WildlifeMapper_Aerial_Image_Analysis_for_Multi-Species_Detection_and_Identification_CVPR_2024_paper.html) 
 * Code: https://github.com/UCSB-VRL/WildlifeMapper
 
-#### 21. S2MAE: A Spatial-Spectral Pretraining Foundation Model for Spectral Remote Sensing Data
-
-* Paper: [CVPR 2024 Paper](https://openaccess.thecvf.com/content/CVPR2024/html/Li_S2MAE_A_Spatial-Spectral_Pretraining_Foundation_Model_for_Spectral_Remote_Sensing_CVPR_2024_paper.html) 
-* Video: https://www.youtube.com/watch?v=VPyomVPVqwU
 
 #### 22. Weakly Misalignment-free Adaptive Feature Alignment for UAVs-based Multimodal Object Detection
 
